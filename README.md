@@ -48,9 +48,12 @@ After the installation is complete, run the following command to apply the chang
 ```bash
 source ~/.bashrc
 
-```
-
-```
-
-```
 ````
+
+```
+
+```
+
+```
+
+```
