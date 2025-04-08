@@ -36,7 +36,7 @@ chmod +x ardupilot_setup.sh
 
 ```bash
 ./ardupilot_setup.sh
-````
+
 
 ---
 
@@ -53,3 +53,4 @@ source ~/.bashrc
 ```
 
 ```
+````
