@@ -30,13 +30,15 @@ Create a file named `full_setup.sh` and copy the script in the full_setup.md and
 ````bash
 chmod +x ardupilot_setup.sh
 
-
+---
 
 ### 3️⃣ Run the Script
 
 ```bash
 ./ardupilot_setup.sh
 ````
+
+---
 
 ### Notes
 
