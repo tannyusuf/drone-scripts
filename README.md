@@ -27,22 +27,26 @@ Create a file named `full_setup.sh` and copy the script in the full_setup.md and
 
 ### 2️⃣ Make the Script Executable
 
-```bash
+````bash
 chmod +x ardupilot_setup.sh
+
+
 
 ### 3️⃣ Run the Script
 
-``bash
+```bash
 ./ardupilot_setup.sh
-```
+````
 
 ### Notes
 
 The script adds important environment variables to your ~/.bashrc file to ensure ArduPilot tools and Gazebo work properly.
 After the installation is complete, run the following command to apply the changes:
 
-``bash
+```bash
 source ~/.bashrc
+
+```
 
 ```
 
