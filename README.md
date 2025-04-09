@@ -23,22 +23,17 @@ The script performs the following steps **sequentially**:
 
 Create a file named `full_setup.sh` and copy the script in the full_setup.md and paste.
 
----
-
 ### 2️⃣ Make the Script Executable
 
-````bash
+```bash
 chmod +x ardupilot_setup.sh
-
----
+```
 
 ### 3️⃣ Run the Script
 
 ```bash
 ./ardupilot_setup.sh
-
-
----
+```
 
 ### Notes
 
@@ -47,13 +42,4 @@ After the installation is complete, run the following command to apply the chang
 
 ```bash
 source ~/.bashrc
-
-````
-
-```
-
-```
-
-```
-
 ```
