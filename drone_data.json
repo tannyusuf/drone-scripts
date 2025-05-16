@@ -1,0 +1,5591 @@
+{
+  "flight_data": [
+    {
+      "timestamp": 1747403615.5698528,
+      "datetime": "2025-05-16 16:53:35.569867",
+      "gps": {
+        "lat": -35.3632625,
+        "lon": 149.1652374,
+        "alt": 0.009
+      },
+      "attitude": {
+        "pitch": 0.0012947655050083995,
+        "roll": 0.0014005888951942325,
+        "yaw": -2.222867488861084
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.023278988897800446,
+        "airspeed": 0.02327936887741089
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "RTL",
+        "armed": false,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 0
+      }
+    },
+    {
+      "timestamp": 1747403616.57962,
+      "datetime": "2025-05-16 16:53:36.579644",
+      "gps": {
+        "lat": -35.3632625,
+        "lon": 149.1652374,
+        "alt": 0.009
+      },
+      "attitude": {
+        "pitch": 0.0013118039350956678,
+        "roll": 0.001401743502356112,
+        "yaw": -2.2222845554351807
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.023211445659399033,
+        "airspeed": 0.023211998865008354
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "RTL",
+        "armed": false,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403617.5854945,
+      "datetime": "2025-05-16 16:53:37.585502",
+      "gps": {
+        "lat": -35.3632625,
+        "lon": 149.1652374,
+        "alt": 0.009
+      },
+      "attitude": {
+        "pitch": 0.001314289285801351,
+        "roll": 0.001408249489031732,
+        "yaw": -2.222041606903076
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.023233724758028984,
+        "airspeed": 0.02323494292795658
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403618.5893242,
+      "datetime": "2025-05-16 16:53:38.589328",
+      "gps": {
+        "lat": -35.3632625,
+        "lon": 149.1652374,
+        "alt": 0.009
+      },
+      "attitude": {
+        "pitch": 0.0013146615820005536,
+        "roll": 0.0014201569138094783,
+        "yaw": -2.221869945526123
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.023277265951037407,
+        "airspeed": 0.0232780110090971
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403619.5943623,
+      "datetime": "2025-05-16 16:53:39.594372",
+      "gps": {
+        "lat": -35.3632625,
+        "lon": 149.1652374,
+        "alt": 0.009
+      },
+      "attitude": {
+        "pitch": 0.0013169728918001056,
+        "roll": 0.00142166658770293,
+        "yaw": -2.221707820892334
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.02233992889523506,
+        "airspeed": 0.02234082855284214
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403620.6009316,
+      "datetime": "2025-05-16 16:53:40.600942",
+      "gps": {
+        "lat": -35.3632625,
+        "lon": 149.1652374,
+        "alt": 0.009
+      },
+      "attitude": {
+        "pitch": 0.0013371555833145976,
+        "roll": 0.001451064134016633,
+        "yaw": -2.221465587615967
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.021257717162370682,
+        "airspeed": 0.021258510649204254
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403621.6110284,
+      "datetime": "2025-05-16 16:53:41.611032",
+      "gps": {
+        "lat": -35.3632625,
+        "lon": 149.1652374,
+        "alt": 0.009
+      },
+      "attitude": {
+        "pitch": 0.0013579302467405796,
+        "roll": 0.0014779608463868499,
+        "yaw": -2.221303701400757
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.020525382831692696,
+        "airspeed": 0.020526573061943054
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403622.6160278,
+      "datetime": "2025-05-16 16:53:42.616032",
+      "gps": {
+        "lat": -35.3632625,
+        "lon": 149.1652374,
+        "alt": 0.019
+      },
+      "attitude": {
+        "pitch": -0.0007071503205224872,
+        "roll": 0.0017898710211738944,
+        "yaw": -2.220937967300415
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": -0.11,
+        "groundspeed": 0.019367486238479614,
+        "airspeed": 0.11759322881698608
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403623.622234,
+      "datetime": "2025-05-16 16:53:43.622238",
+      "gps": {
+        "lat": -35.3632625,
+        "lon": 149.1652374,
+        "alt": 0.368
+      },
+      "attitude": {
+        "pitch": 0.0018906390760093927,
+        "roll": 0.0010193136986345053,
+        "yaw": -2.221017360687256
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": -0.83,
+        "groundspeed": 0.014522550627589226,
+        "airspeed": 0.8331628441810608
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403624.6285398,
+      "datetime": "2025-05-16 16:53:44.628544",
+      "gps": {
+        "lat": -35.3632625,
+        "lon": 149.1652374,
+        "alt": 1.292
+      },
+      "attitude": {
+        "pitch": 0.002521901624277234,
+        "roll": 0.0010417221346870065,
+        "yaw": -2.221123695373535
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": -1.6,
+        "groundspeed": 0.014272239990532398,
+        "airspeed": 1.6041457653045654
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403625.6400278,
+      "datetime": "2025-05-16 16:53:45.640031",
+      "gps": {
+        "lat": -35.3632625,
+        "lon": 149.1652374,
+        "alt": 2.8
+      },
+      "attitude": {
+        "pitch": 0.00204653013497591,
+        "roll": 0.0019118200289085507,
+        "yaw": -2.2213056087493896
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": -2.34,
+        "groundspeed": 0.019525635987520218,
+        "airspeed": 2.348135471343994
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403626.6504593,
+      "datetime": "2025-05-16 16:53:46.650467",
+      "gps": {
+        "lat": -35.3632626,
+        "lon": 149.1652374,
+        "alt": 4.05
+      },
+      "attitude": {
+        "pitch": 0.0016604631673544645,
+        "roll": 0.0017488624434918165,
+        "yaw": -2.234138011932373
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": -2.53,
+        "groundspeed": 0.02128157950937748,
+        "airspeed": 2.537580966949463
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403627.666737,
+      "datetime": "2025-05-16 16:53:47.666743",
+      "gps": {
+        "lat": -35.3632626,
+        "lon": 149.1652374,
+        "alt": 4.683
+      },
+      "attitude": {
+        "pitch": 0.0017177843255922198,
+        "roll": 0.0020805129315704107,
+        "yaw": -2.234226942062378
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": -2.47,
+        "groundspeed": 0.021455105394124985,
+        "airspeed": 2.4702320098876953
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 231
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403628.67972,
+      "datetime": "2025-05-16 16:53:48.679729",
+      "gps": {
+        "lat": -35.3632626,
+        "lon": 149.1652374,
+        "alt": 6.386
+      },
+      "attitude": {
+        "pitch": 0.0018759992672130466,
+        "roll": 0.00242496351711452,
+        "yaw": -2.234327554702759
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": -2.02,
+        "groundspeed": 0.02277819626033306,
+        "airspeed": 2.0243139266967773
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 231
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403629.689587,
+      "datetime": "2025-05-16 16:53:49.689595",
+      "gps": {
+        "lat": -35.3632626,
+        "lon": 149.1652374,
+        "alt": 7.327
+      },
+      "attitude": {
+        "pitch": 0.0017736201407387853,
+        "roll": 0.002829737728461623,
+        "yaw": -2.2344937324523926
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": -1.72,
+        "groundspeed": 0.02392425574362278,
+        "airspeed": 1.7283759117126465
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 231
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403630.695085,
+      "datetime": "2025-05-16 16:53:50.695089",
+      "gps": {
+        "lat": -35.3632626,
+        "lon": 149.1652374,
+        "alt": 8.47
+      },
+      "attitude": {
+        "pitch": 0.0017938787350431085,
+        "roll": 0.002701791236177087,
+        "yaw": -2.234562635421753
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": -1.33,
+        "groundspeed": 0.024823686107993126,
+        "airspeed": 1.330664873123169
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 231
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403631.7065327,
+      "datetime": "2025-05-16 16:53:51.706536",
+      "gps": {
+        "lat": -35.3632626,
+        "lon": 149.1652374,
+        "alt": 9.315
+      },
+      "attitude": {
+        "pitch": 0.0019436359871178865,
+        "roll": 0.0023883942048996687,
+        "yaw": -2.2344980239868164
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": -0.93,
+        "groundspeed": 0.02557992935180664,
+        "airspeed": 0.9347295761108398
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 231
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403632.7209444,
+      "datetime": "2025-05-16 16:53:52.720950",
+      "gps": {
+        "lat": -35.3632626,
+        "lon": 149.1652374,
+        "alt": 9.709
+      },
+      "attitude": {
+        "pitch": 0.0022177312057465315,
+        "roll": 0.002233588369563222,
+        "yaw": -2.2346043586730957
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": -0.65,
+        "groundspeed": 0.025480950251221657,
+        "airspeed": 0.6555070281028748
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "GUIDED",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 231
+      },
+      "waypoint": {
+        "current": 0,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403633.7281487,
+      "datetime": "2025-05-16 16:53:53.728153",
+      "gps": {
+        "lat": -35.3632626,
+        "lon": 149.1652374,
+        "alt": 9.962
+      },
+      "attitude": {
+        "pitch": 0.0032597025856375694,
+        "roll": 0.004680615849792957,
+        "yaw": -2.234581470489502
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": -0.43,
+        "groundspeed": 0.027239134535193443,
+        "airspeed": 0.434407502412796
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 231
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403634.7424288,
+      "datetime": "2025-05-16 16:53:54.742434",
+      "gps": {
+        "lat": -35.3632624,
+        "lon": 149.1652374,
+        "alt": 10.136
+      },
+      "attitude": {
+        "pitch": 0.029309673234820366,
+        "roll": 0.04907062277197838,
+        "yaw": -2.233180284500122
+      },
+      "velocity": {
+        "vx": 0.15,
+        "vy": -0.01,
+        "vz": -0.3,
+        "groundspeed": 0.1531141996383667,
+        "airspeed": 0.3396274149417877
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403635.7578485,
+      "datetime": "2025-05-16 16:53:55.757851",
+      "gps": {
+        "lat": -35.3632611,
+        "lon": 149.1652372,
+        "alt": 10.259
+      },
+      "attitude": {
+        "pitch": 0.0535569041967392,
+        "roll": 0.092577263712883,
+        "yaw": -2.225836753845215
+      },
+      "velocity": {
+        "vx": 0.53,
+        "vy": -0.07,
+        "vz": -0.23,
+        "groundspeed": 0.5392587780952454,
+        "airspeed": 0.5887495875358582
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403636.7699487,
+      "datetime": "2025-05-16 16:53:56.769953",
+      "gps": {
+        "lat": -35.3632576,
+        "lon": 149.1652366,
+        "alt": 10.371
+      },
+      "attitude": {
+        "pitch": 0.01946921832859516,
+        "roll": 0.14631587266921997,
+        "yaw": -1.8322683572769165
+      },
+      "velocity": {
+        "vx": 1.13,
+        "vy": -0.15,
+        "vz": -0.25,
+        "groundspeed": 1.1507163047790527,
+        "airspeed": 1.1785861253738403
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 255
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403637.783455,
+      "datetime": "2025-05-16 16:53:57.783459",
+      "gps": {
+        "lat": -35.3632509,
+        "lon": 149.1652354,
+        "alt": 10.512
+      },
+      "attitude": {
+        "pitch": -0.07251382619142532,
+        "roll": 0.17871053516864777,
+        "yaw": -1.3189946413040161
+      },
+      "velocity": {
+        "vx": 1.96,
+        "vy": -0.28,
+        "vz": -0.34,
+        "groundspeed": 1.9857449531555176,
+        "airspeed": 2.015127658843994
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 284
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403638.805426,
+      "datetime": "2025-05-16 16:53:58.805433",
+      "gps": {
+        "lat": -35.363246,
+        "lon": 149.1652345,
+        "alt": 10.603
+      },
+      "attitude": {
+        "pitch": -0.12921273708343506,
+        "roll": 0.1716649979352951,
+        "yaw": -1.057836890220642
+      },
+      "velocity": {
+        "vx": 2.46,
+        "vy": -0.35,
+        "vz": -0.4,
+        "groundspeed": 2.491889238357544,
+        "airspeed": 2.5250492095947266
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 299
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403639.8175654,
+      "datetime": "2025-05-16 16:53:59.817568",
+      "gps": {
+        "lat": -35.3632326,
+        "lon": 149.1652322,
+        "alt": 10.844
+      },
+      "attitude": {
+        "pitch": -0.22816410660743713,
+        "roll": 0.09697567671537399,
+        "yaw": -0.5238776803016663
+      },
+      "velocity": {
+        "vx": 3.63,
+        "vy": -0.51,
+        "vz": -0.57,
+        "groundspeed": 3.6683249473571777,
+        "airspeed": 3.713118314743042
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 329
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403640.8302588,
+      "datetime": "2025-05-16 16:54:00.830264",
+      "gps": {
+        "lat": -35.3632239,
+        "lon": 149.1652307,
+        "alt": 10.999
+      },
+      "attitude": {
+        "pitch": -0.23916229605674744,
+        "roll": 0.036515168845653534,
+        "yaw": -0.2644364535808563
+      },
+      "velocity": {
+        "vx": 4.24,
+        "vy": -0.6,
+        "vz": -0.67,
+        "groundspeed": 4.287675857543945,
+        "airspeed": 4.340141773223877
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 344
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403641.8565621,
+      "datetime": "2025-05-16 16:54:01.856572",
+      "gps": {
+        "lat": -35.3632138,
+        "lon": 149.1652289,
+        "alt": 11.18
+      },
+      "attitude": {
+        "pitch": -0.23382562398910522,
+        "roll": 0.013605106621980667,
+        "yaw": -0.15361475944519043
+      },
+      "velocity": {
+        "vx": 4.83,
+        "vy": -0.67,
+        "vz": -0.77,
+        "groundspeed": 4.885281562805176,
+        "airspeed": 4.946039199829102
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 351
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403642.8819487,
+      "datetime": "2025-05-16 16:54:02.881953",
+      "gps": {
+        "lat": -35.3631897,
+        "lon": 149.1652248,
+        "alt": 11.619
+      },
+      "attitude": {
+        "pitch": -0.23343399167060852,
+        "roll": 0.0027155058924108744,
+        "yaw": -0.108726367354393
+      },
+      "velocity": {
+        "vx": 5.98,
+        "vy": -0.83,
+        "vz": -0.96,
+        "groundspeed": 6.040280342102051,
+        "airspeed": 6.117444038391113
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 353
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403643.917953,
+      "datetime": "2025-05-16 16:54:03.917958",
+      "gps": {
+        "lat": -35.3631604,
+        "lon": 149.1652198,
+        "alt": 12.157
+      },
+      "attitude": {
+        "pitch": -0.19788587093353271,
+        "roll": 0.0028519334737211466,
+        "yaw": -0.10978417098522186
+      },
+      "velocity": {
+        "vx": 7.05,
+        "vy": -0.98,
+        "vz": -1.15,
+        "groundspeed": 7.119999885559082,
+        "airspeed": 7.213836193084717
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 353
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403644.9333827,
+      "datetime": "2025-05-16 16:54:04.933388",
+      "gps": {
+        "lat": -35.363109,
+        "lon": 149.1652108,
+        "alt": 13.125
+      },
+      "attitude": {
+        "pitch": -0.1317085474729538,
+        "roll": 0.012602845206856728,
+        "yaw": -0.12028341740369797
+      },
+      "velocity": {
+        "vx": 8.18,
+        "vy": -1.17,
+        "vz": -1.36,
+        "groundspeed": 8.271851539611816,
+        "airspeed": 8.38433837890625
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 353
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403645.947282,
+      "datetime": "2025-05-16 16:54:05.947286",
+      "gps": {
+        "lat": -35.3630513,
+        "lon": 149.1652007,
+        "alt": 14.207
+      },
+      "attitude": {
+        "pitch": -0.06560147553682327,
+        "roll": 0.015794502571225166,
+        "yaw": -0.12715774774551392
+      },
+      "velocity": {
+        "vx": 8.83,
+        "vy": -1.24,
+        "vz": -1.46,
+        "groundspeed": 8.758749961853027,
+        "airspeed": 8.877392768859863
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 352
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403646.9729307,
+      "datetime": "2025-05-16 16:54:06.972934",
+      "gps": {
+        "lat": -35.3630111,
+        "lon": 149.1651937,
+        "alt": 14.951
+      },
+      "attitude": {
+        "pitch": -0.018915895372629166,
+        "roll": 0.016012366861104965,
+        "yaw": -0.12988506257534027
+      },
+      "velocity": {
+        "vx": 8.98,
+        "vy": -1.25,
+        "vz": -1.48,
+        "groundspeed": 9.070616722106934,
+        "airspeed": 9.191274642944336
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 352
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403647.9951231,
+      "datetime": "2025-05-16 16:54:07.995129",
+      "gps": {
+        "lat": -35.3629505,
+        "lon": 149.1651834,
+        "alt": 16.053
+      },
+      "attitude": {
+        "pitch": 0.018435612320899963,
+        "roll": 0.012457478791475296,
+        "yaw": -0.13251978158950806
+      },
+      "velocity": {
+        "vx": 8.92,
+        "vy": -1.22,
+        "vz": -1.44,
+        "groundspeed": 9.005142211914062,
+        "airspeed": 9.12025260925293
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 352
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403649.0229762,
+      "datetime": "2025-05-16 16:54:09.022981",
+      "gps": {
+        "lat": -35.3628916,
+        "lon": 149.1651734,
+        "alt": 17.12
+      },
+      "attitude": {
+        "pitch": 0.10259045660495758,
+        "roll": 0.01061031874269247,
+        "yaw": -0.13406391441822052
+      },
+      "velocity": {
+        "vx": 8.41,
+        "vy": -1.15,
+        "vz": -1.38,
+        "groundspeed": 8.498528480529785,
+        "airspeed": 8.60988998413086
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 352
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403650.034102,
+      "datetime": "2025-05-16 16:54:10.034108",
+      "gps": {
+        "lat": -35.3628552,
+        "lon": 149.1651672,
+        "alt": 17.783
+      },
+      "attitude": {
+        "pitch": 0.15799088776111603,
+        "roll": 0.006785421632230282,
+        "yaw": -0.13506518304347992
+      },
+      "velocity": {
+        "vx": 7.76,
+        "vy": -1.05,
+        "vz": -1.26,
+        "groundspeed": 7.836683750152588,
+        "airspeed": 7.938455104827881
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 352
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403651.0533724,
+      "datetime": "2025-05-16 16:54:11.053375",
+      "gps": {
+        "lat": -35.3628223,
+        "lon": 149.1651617,
+        "alt": 18.379
+      },
+      "attitude": {
+        "pitch": 0.21148668229579926,
+        "roll": 0.004085438791662455,
+        "yaw": -0.13593047857284546
+      },
+      "velocity": {
+        "vx": 6.85,
+        "vy": -0.93,
+        "vz": -1.1,
+        "groundspeed": 6.919306755065918,
+        "airspeed": 7.007052898406982
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 352
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403652.064988,
+      "datetime": "2025-05-16 16:54:12.064992",
+      "gps": {
+        "lat": -35.362794,
+        "lon": 149.1651569,
+        "alt": 18.884
+      },
+      "attitude": {
+        "pitch": 0.26970210671424866,
+        "roll": -0.014468279667198658,
+        "yaw": -0.1429746150970459
+      },
+      "velocity": {
+        "vx": 5.69,
+        "vy": -0.79,
+        "vz": -0.9,
+        "groundspeed": 5.747021198272705,
+        "airspeed": 5.818299770355225
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 351
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403653.0923624,
+      "datetime": "2025-05-16 16:54:13.092367",
+      "gps": {
+        "lat": -35.3627715,
+        "lon": 149.1651526,
+        "alt": 19.295
+      },
+      "attitude": {
+        "pitch": 0.2930279076099396,
+        "roll": -0.07971347123384476,
+        "yaw": -0.19709426164627075
+      },
+      "velocity": {
+        "vx": 4.27,
+        "vy": -0.79,
+        "vz": -0.75,
+        "groundspeed": 4.344321250915527,
+        "airspeed": 4.408599376678467
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 348
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403654.1170993,
+      "datetime": "2025-05-16 16:54:14.117107",
+      "gps": {
+        "lat": -35.3627627,
+        "lon": 149.1651503,
+        "alt": 19.476
+      },
+      "attitude": {
+        "pitch": 0.293226957321167,
+        "roll": -0.1211988553404808,
+        "yaw": -0.2583611309528351
+      },
+      "velocity": {
+        "vx": 3.5,
+        "vy": -0.88,
+        "vz": -0.7,
+        "groundspeed": 3.6125760078430176,
+        "airspeed": 3.680049419403076
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 345
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403655.1343632,
+      "datetime": "2025-05-16 16:54:15.134369",
+      "gps": {
+        "lat": -35.3627505,
+        "lon": 149.1651446,
+        "alt": 19.817
+      },
+      "attitude": {
+        "pitch": 0.2359772026538849,
+        "roll": -0.23685884475708008,
+        "yaw": -0.5435536503791809
+      },
+      "velocity": {
+        "vx": 1.86,
+        "vy": -1.21,
+        "vz": -0.67,
+        "groundspeed": 2.231079339981079,
+        "airspeed": 2.3311240673065186
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 328
+      },
+      "waypoint": {
+        "current": 1,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403656.14902,
+      "datetime": "2025-05-16 16:54:16.149029",
+      "gps": {
+        "lat": -35.3627456,
+        "lon": 149.1651365,
+        "alt": 20.17
+      },
+      "attitude": {
+        "pitch": 0.03739224001765251,
+        "roll": -0.3112775385379791,
+        "yaw": -1.0201284885406494
+      },
+      "velocity": {
+        "vx": 0.29,
+        "vy": -1.78,
+        "vz": -0.75,
+        "groundspeed": 1.805585265159607,
+        "airspeed": 1.95750892162323
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 301
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403657.1765027,
+      "datetime": "2025-05-16 16:54:17.176511",
+      "gps": {
+        "lat": -35.3627473,
+        "lon": 149.1651246,
+        "alt": 20.595
+      },
+      "attitude": {
+        "pitch": -0.16082622110843658,
+        "roll": -0.2586987614631653,
+        "yaw": -1.5160526037216187
+      },
+      "velocity": {
+        "vx": -1.12,
+        "vy": -2.57,
+        "vz": -0.95,
+        "groundspeed": 2.809760093688965,
+        "airspeed": 2.9670259952545166
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 273
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403658.2077534,
+      "datetime": "2025-05-16 16:54:18.207767",
+      "gps": {
+        "lat": -35.3627551,
+        "lon": 149.1651079,
+        "alt": 21.142
+      },
+      "attitude": {
+        "pitch": -0.22780819237232208,
+        "roll": -0.09519656747579575,
+        "yaw": -2.043982744216919
+      },
+      "velocity": {
+        "vx": -2.32,
+        "vy": -3.45,
+        "vz": -1.23,
+        "groundspeed": 4.164567470550537,
+        "airspeed": 4.343047142028809
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 242
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403659.2251346,
+      "datetime": "2025-05-16 16:54:19.225139",
+      "gps": {
+        "lat": -35.3627674,
+        "lon": 149.1650869,
+        "alt": 21.83
+      },
+      "attitude": {
+        "pitch": -0.1576070934534073,
+        "roll": -0.013410869054496288,
+        "yaw": -2.2313692569732666
+      },
+      "velocity": {
+        "vx": -3.11,
+        "vy": -4.12,
+        "vz": -1.49,
+        "groundspeed": 5.170199871063232,
+        "airspeed": 5.383163928985596
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403660.251974,
+      "datetime": "2025-05-16 16:54:20.251983",
+      "gps": {
+        "lat": -35.3627824,
+        "lon": 149.1650626,
+        "alt": 22.639
+      },
+      "attitude": {
+        "pitch": -0.08825866878032684,
+        "roll": 0.024205174297094345,
+        "yaw": -2.258117198944092
+      },
+      "velocity": {
+        "vx": -3.48,
+        "vy": -4.59,
+        "vz": -1.7,
+        "groundspeed": 5.767438888549805,
+        "airspeed": 6.013373851776123
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 230
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403661.2863808,
+      "datetime": "2025-05-16 16:54:21.286407",
+      "gps": {
+        "lat": -35.3627904,
+        "lon": 149.1650496,
+        "alt": 23.075
+      },
+      "attitude": {
+        "pitch": -0.06990518420934677,
+        "roll": 0.021382702514529228,
+        "yaw": -2.2567496299743652
+      },
+      "velocity": {
+        "vx": -3.57,
+        "vy": -4.75,
+        "vz": -1.76,
+        "groundspeed": 5.950887680053711,
+        "airspeed": 6.208245277404785
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 230
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403662.312068,
+      "datetime": "2025-05-16 16:54:22.312070",
+      "gps": {
+        "lat": -35.3628068,
+        "lon": 149.1650226,
+        "alt": 23.985
+      },
+      "attitude": {
+        "pitch": -0.03764459118247032,
+        "roll": 0.00951090082526207,
+        "yaw": -2.2504003047943115
+      },
+      "velocity": {
+        "vx": -3.7,
+        "vy": -4.96,
+        "vz": -1.83,
+        "groundspeed": 6.195274829864502,
+        "airspeed": 6.462229251861572
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 231
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403663.327659,
+      "datetime": "2025-05-16 16:54:23.327661",
+      "gps": {
+        "lat": -35.3628407,
+        "lon": 149.1649669,
+        "alt": 25.827
+      },
+      "attitude": {
+        "pitch": 0.009107599034905434,
+        "roll": -0.000999503768980503,
+        "yaw": -2.240485668182373
+      },
+      "velocity": {
+        "vx": -3.76,
+        "vy": -4.96,
+        "vz": -1.81,
+        "groundspeed": 6.231385231018066,
+        "airspeed": 6.489470958709717
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 231
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403664.3618546,
+      "datetime": "2025-05-16 16:54:24.361859",
+      "gps": {
+        "lat": -35.3628575,
+        "lon": 149.1649397,
+        "alt": 26.721
+      },
+      "attitude": {
+        "pitch": 0.06117255240678787,
+        "roll": -0.0005980835994705558,
+        "yaw": -2.237292528152466
+      },
+      "velocity": {
+        "vx": -3.67,
+        "vy": -4.78,
+        "vz": -1.75,
+        "groundspeed": 6.0386576652526855,
+        "airspeed": 6.2889204025268555
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 231
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403665.3977094,
+      "datetime": "2025-05-16 16:54:25.397715",
+      "gps": {
+        "lat": -35.362881,
+        "lon": 149.1649022,
+        "alt": 27.964
+      },
+      "attitude": {
+        "pitch": 0.1437092423439026,
+        "roll": 0.0006719317170791328,
+        "yaw": -2.2341721057891846
+      },
+      "velocity": {
+        "vx": -3.24,
+        "vy": -4.17,
+        "vz": -1.52,
+        "groundspeed": 5.282464504241943,
+        "airspeed": 5.497919082641602
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403666.4142582,
+      "datetime": "2025-05-16 16:54:26.414261",
+      "gps": {
+        "lat": -35.3629003,
+        "lon": 149.1648715,
+        "alt": 28.966
+      },
+      "attitude": {
+        "pitch": 0.23313084244728088,
+        "roll": 0.0012230530846863985,
+        "yaw": -2.2323334217071533
+      },
+      "velocity": {
+        "vx": -2.42,
+        "vy": -3.1,
+        "vz": -1.11,
+        "groundspeed": 3.945457935333252,
+        "airspeed": 4.098910331726074
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403667.430978,
+      "datetime": "2025-05-16 16:54:27.430982",
+      "gps": {
+        "lat": -35.3629131,
+        "lon": 149.1648512,
+        "alt": 29.604
+      },
+      "attitude": {
+        "pitch": 0.246104896068573,
+        "roll": -0.00016348874487448484,
+        "yaw": -2.2312440872192383
+      },
+      "velocity": {
+        "vx": -1.33,
+        "vy": -1.69,
+        "vz": -0.58,
+        "groundspeed": 2.1572189331054688,
+        "airspeed": 2.2355360984802246
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403668.4738111,
+      "datetime": "2025-05-16 16:54:28.473815",
+      "gps": {
+        "lat": -35.3629177,
+        "lon": 149.1648439,
+        "alt": 29.824
+      },
+      "attitude": {
+        "pitch": 0.17726056277751923,
+        "roll": -0.0007377758156508207,
+        "yaw": -2.230328321456909
+      },
+      "velocity": {
+        "vx": -0.72,
+        "vy": -0.91,
+        "vz": -0.31,
+        "groundspeed": 1.168042540550232,
+        "airspeed": 1.2093547582626343
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403669.5045922,
+      "datetime": "2025-05-16 16:54:29.504600",
+      "gps": {
+        "lat": -35.3629205,
+        "lon": 149.1648394,
+        "alt": 29.96
+      },
+      "attitude": {
+        "pitch": 0.08103127777576447,
+        "roll": -0.000861296197399497,
+        "yaw": -2.2290050983428955
+      },
+      "velocity": {
+        "vx": -0.17,
+        "vy": -0.19,
+        "vz": -0.08,
+        "groundspeed": 0.2630521059036255,
+        "airspeed": 0.277293860912323
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403670.5386302,
+      "datetime": "2025-05-16 16:54:30.538639",
+      "gps": {
+        "lat": -35.3629209,
+        "lon": 149.164839,
+        "alt": 29.981
+      },
+      "attitude": {
+        "pitch": 0.026916852220892906,
+        "roll": -0.0001396339212078601,
+        "yaw": -2.2282662391662598
+      },
+      "velocity": {
+        "vx": -0.02,
+        "vy": 0.0,
+        "vz": -0.02,
+        "groundspeed": 0.022149352356791496,
+        "airspeed": 0.029992910102009773
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 2,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403671.5784955,
+      "datetime": "2025-05-16 16:54:31.578501",
+      "gps": {
+        "lat": -35.362921,
+        "lon": 149.1648392,
+        "alt": 29.981
+      },
+      "attitude": {
+        "pitch": -0.015834400430321693,
+        "roll": 0.0016544500831514597,
+        "yaw": -2.2273497581481934
+      },
+      "velocity": {
+        "vx": -0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.027757488191127777,
+        "airspeed": 0.028329474851489067
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403672.5999548,
+      "datetime": "2025-05-16 16:54:32.599962",
+      "gps": {
+        "lat": -35.362921,
+        "lon": 149.1648391,
+        "alt": 29.981
+      },
+      "attitude": {
+        "pitch": -0.004799955058842897,
+        "roll": -0.0007572761387564242,
+        "yaw": -2.2272515296936035
+      },
+      "velocity": {
+        "vx": -0.04,
+        "vy": -0.02,
+        "vz": 0.0,
+        "groundspeed": 0.05280202627182007,
+        "airspeed": 0.05281282961368561
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403673.6337554,
+      "datetime": "2025-05-16 16:54:33.633763",
+      "gps": {
+        "lat": -35.3629214,
+        "lon": 149.164839,
+        "alt": 29.979
+      },
+      "attitude": {
+        "pitch": 0.008551759645342827,
+        "roll": -0.016423316672444344,
+        "yaw": -2.226576328277588
+      },
+      "velocity": {
+        "vx": -0.05,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.05242731049656868,
+        "airspeed": 0.0524410605430603
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403674.6666095,
+      "datetime": "2025-05-16 16:54:34.666614",
+      "gps": {
+        "lat": -35.3629225,
+        "lon": 149.1648398,
+        "alt": 29.979
+      },
+      "attitude": {
+        "pitch": 0.015743795782327652,
+        "roll": -0.06889411062002182,
+        "yaw": -2.2263166904449463
+      },
+      "velocity": {
+        "vx": -0.26,
+        "vy": 0.26,
+        "vz": 0.0,
+        "groundspeed": 0.37520793080329895,
+        "airspeed": 0.3752097487449646
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403675.7018428,
+      "datetime": "2025-05-16 16:54:35.701851",
+      "gps": {
+        "lat": -35.362926,
+        "lon": 149.1648439,
+        "alt": 29.975
+      },
+      "attitude": {
+        "pitch": 0.01719825714826584,
+        "roll": -0.11969161778688431,
+        "yaw": -2.225834846496582
+      },
+      "velocity": {
+        "vx": -0.75,
+        "vy": 0.77,
+        "vz": 0.0,
+        "groundspeed": 1.0803122520446777,
+        "airspeed": 1.0803155899047852
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403676.7354224,
+      "datetime": "2025-05-16 16:54:36.735433",
+      "gps": {
+        "lat": -35.3629305,
+        "lon": 149.1648494,
+        "alt": 29.972
+      },
+      "attitude": {
+        "pitch": 0.018232062458992004,
+        "roll": -0.15871059894561768,
+        "yaw": -2.2257509231567383
+      },
+      "velocity": {
+        "vx": -1.24,
+        "vy": 1.25,
+        "vz": 0.0,
+        "groundspeed": 1.7700318098068237,
+        "airspeed": 1.770040512084961
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403677.7675786,
+      "datetime": "2025-05-16 16:54:37.767583",
+      "gps": {
+        "lat": -35.3629423,
+        "lon": 149.1648635,
+        "alt": 29.965
+      },
+      "attitude": {
+        "pitch": 0.021657882258296013,
+        "roll": -0.22132174670696259,
+        "yaw": -2.2259068489074707
+      },
+      "velocity": {
+        "vx": -2.27,
+        "vy": 2.22,
+        "vz": 0.01,
+        "groundspeed": 3.1826820373535156,
+        "airspeed": 3.182713270187378
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403678.8011498,
+      "datetime": "2025-05-16 16:54:38.801155",
+      "gps": {
+        "lat": -35.3629618,
+        "lon": 149.1648867,
+        "alt": 29.956
+      },
+      "attitude": {
+        "pitch": 0.01724577508866787,
+        "roll": -0.2238808572292328,
+        "yaw": -2.224877119064331
+      },
+      "velocity": {
+        "vx": -3.48,
+        "vy": 3.36,
+        "vz": 0.0,
+        "groundspeed": 4.841972827911377,
+        "airspeed": 4.841974258422852
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403679.8436444,
+      "datetime": "2025-05-16 16:54:39.843657",
+      "gps": {
+        "lat": -35.3629894,
+        "lon": 149.1649191,
+        "alt": 29.957
+      },
+      "attitude": {
+        "pitch": 0.00907615665346384,
+        "roll": -0.17843520641326904,
+        "yaw": -2.2237257957458496
+      },
+      "velocity": {
+        "vx": -4.59,
+        "vy": 4.4,
+        "vz": -0.02,
+        "groundspeed": 6.3670430183410645,
+        "airspeed": 6.367079734802246
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403680.877036,
+      "datetime": "2025-05-16 16:54:40.877046",
+      "gps": {
+        "lat": -35.3630234,
+        "lon": 149.1649588,
+        "alt": 29.974
+      },
+      "attitude": {
+        "pitch": 0.004455097019672394,
+        "roll": -0.11636390537023544,
+        "yaw": -2.2237467765808105
+      },
+      "velocity": {
+        "vx": -5.37,
+        "vy": 5.1,
+        "vz": -0.03,
+        "groundspeed": 7.412731647491455,
+        "airspeed": 7.412809371948242
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403681.9104571,
+      "datetime": "2025-05-16 16:54:41.910462",
+      "gps": {
+        "lat": -35.3630485,
+        "lon": 149.164988,
+        "alt": 29.986
+      },
+      "attitude": {
+        "pitch": -0.0001868362887762487,
+        "roll": -0.0753244087100029,
+        "yaw": -2.223801851272583
+      },
+      "velocity": {
+        "vx": -5.69,
+        "vy": 5.4,
+        "vz": -0.03,
+        "groundspeed": 7.8567070960998535,
+        "airspeed": 7.856768608093262
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403682.9483707,
+      "datetime": "2025-05-16 16:54:42.948378",
+      "gps": {
+        "lat": -35.3630748,
+        "lon": 149.1650185,
+        "alt": 29.996
+      },
+      "attitude": {
+        "pitch": -0.001450751326046884,
+        "roll": -0.030832035467028618,
+        "yaw": -2.224250316619873
+      },
+      "velocity": {
+        "vx": -5.87,
+        "vy": 5.57,
+        "vz": -0.02,
+        "groundspeed": 8.098304748535156,
+        "airspeed": 8.09835147857666
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403683.9792721,
+      "datetime": "2025-05-16 16:54:43.979281",
+      "gps": {
+        "lat": -35.3631149,
+        "lon": 149.165065,
+        "alt": 30.004
+      },
+      "attitude": {
+        "pitch": -0.001741481013596058,
+        "roll": 0.005113948602229357,
+        "yaw": -2.2245631217956543
+      },
+      "velocity": {
+        "vx": -5.89,
+        "vy": 5.59,
+        "vz": 0.0,
+        "groundspeed": 8.12916374206543,
+        "airspeed": 8.12916374206543
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403685.037101,
+      "datetime": "2025-05-16 16:54:45.037111",
+      "gps": {
+        "lat": -35.3631415,
+        "lon": 149.1650958,
+        "alt": 30.003
+      },
+      "attitude": {
+        "pitch": -0.00494686234742403,
+        "roll": 0.057858292013406754,
+        "yaw": -2.2250986099243164
+      },
+      "velocity": {
+        "vx": -5.77,
+        "vy": 5.49,
+        "vz": 0.0,
+        "groundspeed": 7.9678497314453125,
+        "airspeed": 7.96785306930542
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403686.076527,
+      "datetime": "2025-05-16 16:54:46.076531",
+      "gps": {
+        "lat": -35.3631791,
+        "lon": 149.1651395,
+        "alt": 30.005
+      },
+      "attitude": {
+        "pitch": -0.010458596982061863,
+        "roll": 0.1385684460401535,
+        "yaw": -2.226619005203247
+      },
+      "velocity": {
+        "vx": -5.22,
+        "vy": 4.98,
+        "vz": 0.0,
+        "groundspeed": 7.222487926483154,
+        "airspeed": 7.2224907875061035
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403687.1236157,
+      "datetime": "2025-05-16 16:54:47.123626",
+      "gps": {
+        "lat": -35.3632116,
+        "lon": 149.1651772,
+        "alt": 30.0
+      },
+      "attitude": {
+        "pitch": -0.016458963975310326,
+        "roll": 0.21302704513072968,
+        "yaw": -2.2286155223846436
+      },
+      "velocity": {
+        "vx": -4.25,
+        "vy": 4.08,
+        "vz": 0.01,
+        "groundspeed": 5.896200180053711,
+        "airspeed": 5.896211624145508
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403688.1627822,
+      "datetime": "2025-05-16 16:54:48.162784",
+      "gps": {
+        "lat": -35.363229,
+        "lon": 149.1651974,
+        "alt": 29.991
+      },
+      "attitude": {
+        "pitch": -0.01987556181848049,
+        "roll": 0.2516118288040161,
+        "yaw": -2.2298431396484375
+      },
+      "velocity": {
+        "vx": -3.39,
+        "vy": 3.27,
+        "vz": 0.02,
+        "groundspeed": 4.711268901824951,
+        "airspeed": 4.711316108703613
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403689.1938243,
+      "datetime": "2025-05-16 16:54:49.193829",
+      "gps": {
+        "lat": -35.3632475,
+        "lon": 149.1652191,
+        "alt": 29.97
+      },
+      "attitude": {
+        "pitch": -0.020552242174744606,
+        "roll": 0.2420891523361206,
+        "yaw": -2.2295053005218506
+      },
+      "velocity": {
+        "vx": -2.02,
+        "vy": 1.99,
+        "vz": 0.03,
+        "groundspeed": 2.847670555114746,
+        "airspeed": 2.8478379249572754
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403690.2306905,
+      "datetime": "2025-05-16 16:54:50.230696",
+      "gps": {
+        "lat": -35.3632575,
+        "lon": 149.1652309,
+        "alt": 29.953
+      },
+      "attitude": {
+        "pitch": -0.014645816758275032,
+        "roll": 0.16213056445121765,
+        "yaw": -2.226901054382324
+      },
+      "velocity": {
+        "vx": -0.91,
+        "vy": 0.94,
+        "vz": 0.01,
+        "groundspeed": 1.3122541904449463,
+        "airspeed": 1.3123550415039062
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403691.2650256,
+      "datetime": "2025-05-16 16:54:51.265032",
+      "gps": {
+        "lat": -35.3632606,
+        "lon": 149.1652346,
+        "alt": 29.95
+      },
+      "attitude": {
+        "pitch": -0.010079405270516872,
+        "roll": 0.10886024683713913,
+        "yaw": -2.225369453430176
+      },
+      "velocity": {
+        "vx": -0.43,
+        "vy": 0.47,
+        "vz": 0.0,
+        "groundspeed": 0.6441426277160645,
+        "airspeed": 0.6441430449485779
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403692.2950087,
+      "datetime": "2025-05-16 16:54:52.295018",
+      "gps": {
+        "lat": -35.3632619,
+        "lon": 149.1652362,
+        "alt": 29.954
+      },
+      "attitude": {
+        "pitch": -0.0058148326352238655,
+        "roll": 0.059871457517147064,
+        "yaw": -2.2241694927215576
+      },
+      "velocity": {
+        "vx": -0.13,
+        "vy": 0.18,
+        "vz": -0.01,
+        "groundspeed": 0.2300700694322586,
+        "airspeed": 0.23040671646595
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403693.3570395,
+      "datetime": "2025-05-16 16:54:53.357045",
+      "gps": {
+        "lat": -35.3632622,
+        "lon": 149.1652368,
+        "alt": 29.966
+      },
+      "attitude": {
+        "pitch": 0.0009209247073158622,
+        "roll": -0.004259374458342791,
+        "yaw": -2.2230591773986816
+      },
+      "velocity": {
+        "vx": 0.0,
+        "vy": 0.04,
+        "vz": -0.01,
+        "groundspeed": 0.0433298796415329,
+        "airspeed": 0.04555633291602135
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403694.3833966,
+      "datetime": "2025-05-16 16:54:54.383401",
+      "gps": {
+        "lat": -35.3632624,
+        "lon": 149.1652372,
+        "alt": 29.974
+      },
+      "attitude": {
+        "pitch": -0.0003033783286809921,
+        "roll": -0.0004925233661197126,
+        "yaw": -2.222463369369507
+      },
+      "velocity": {
+        "vx": -0.05,
+        "vy": 0.07,
+        "vz": 0.0,
+        "groundspeed": 0.09163520485162735,
+        "airspeed": 0.09192069619894028
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403695.426506,
+      "datetime": "2025-05-16 16:54:55.426511",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652375,
+        "alt": 29.978
+      },
+      "attitude": {
+        "pitch": -0.001065754098817706,
+        "roll": 0.00772607559338212,
+        "yaw": -2.22224497795105
+      },
+      "velocity": {
+        "vx": -0.04,
+        "vy": 0.05,
+        "vz": 0.0,
+        "groundspeed": 0.07212874293327332,
+        "airspeed": 0.0722222700715065
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403696.4747553,
+      "datetime": "2025-05-16 16:54:56.474761",
+      "gps": {
+        "lat": -35.3632629,
+        "lon": 149.1652378,
+        "alt": 29.981
+      },
+      "attitude": {
+        "pitch": -0.0008003367693163455,
+        "roll": 0.009193231351673603,
+        "yaw": -2.221961498260498
+      },
+      "velocity": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.009877204895019531,
+        "airspeed": 0.009878808632493019
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403697.536423,
+      "datetime": "2025-05-16 16:54:57.536426",
+      "gps": {
+        "lat": -35.3632629,
+        "lon": 149.1652379,
+        "alt": 29.981
+      },
+      "attitude": {
+        "pitch": -0.00034978167968802154,
+        "roll": 0.008224806748330593,
+        "yaw": -2.2217845916748047
+      },
+      "velocity": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.010359415784478188,
+        "airspeed": 0.01037808507680893
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403698.588937,
+      "datetime": "2025-05-16 16:54:58.588940",
+      "gps": {
+        "lat": -35.3632629,
+        "lon": 149.1652379,
+        "alt": 29.981
+      },
+      "attitude": {
+        "pitch": 0.0007160091772675514,
+        "roll": 0.0038466984406113625,
+        "yaw": -2.2216110229492188
+      },
+      "velocity": {
+        "vx": 0.03,
+        "vy": -0.02,
+        "vz": 0.0,
+        "groundspeed": 0.04260044917464256,
+        "airspeed": 0.04260990768671036
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403699.6285717,
+      "datetime": "2025-05-16 16:54:59.628577",
+      "gps": {
+        "lat": -35.3632629,
+        "lon": 149.1652378,
+        "alt": 29.981
+      },
+      "attitude": {
+        "pitch": 0.0008092689095064998,
+        "roll": 0.0016506449319422245,
+        "yaw": -2.2216382026672363
+      },
+      "velocity": {
+        "vx": 0.03,
+        "vy": -0.02,
+        "vz": 0.0,
+        "groundspeed": 0.04666944965720177,
+        "airspeed": 0.046676669269800186
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403700.6717422,
+      "datetime": "2025-05-16 16:55:00.671745",
+      "gps": {
+        "lat": -35.3632628,
+        "lon": 149.1652377,
+        "alt": 29.981
+      },
+      "attitude": {
+        "pitch": 0.0007677627727389336,
+        "roll": 0.0006758388481102884,
+        "yaw": -2.2214858531951904
+      },
+      "velocity": {
+        "vx": 0.03,
+        "vy": -0.02,
+        "vz": 0.0,
+        "groundspeed": 0.0411408394575119,
+        "airspeed": 0.04114838317036629
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403701.7268753,
+      "datetime": "2025-05-16 16:55:01.726881",
+      "gps": {
+        "lat": -35.3632628,
+        "lon": 149.1652377,
+        "alt": 29.981
+      },
+      "attitude": {
+        "pitch": 0.00047520961379632354,
+        "roll": 0.0004440028569661081,
+        "yaw": -2.2213616371154785
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": -0.02,
+        "vz": 0.0,
+        "groundspeed": 0.03417783975601196,
+        "airspeed": 0.034186042845249176
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403702.777594,
+      "datetime": "2025-05-16 16:55:02.777601",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652376,
+        "alt": 29.955
+      },
+      "attitude": {
+        "pitch": 0.0009810251649469137,
+        "roll": 0.0005941255367361009,
+        "yaw": -2.221313953399658
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": -0.01,
+        "vz": 0.2,
+        "groundspeed": 0.02616189606487751,
+        "airspeed": 0.2045866996049881
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403703.8301594,
+      "datetime": "2025-05-16 16:55:03.830165",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652376,
+        "alt": 29.723
+      },
+      "attitude": {
+        "pitch": 0.0014926341827958822,
+        "roll": 0.0010221130214631557,
+        "yaw": -2.2212963104248047
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": -0.01,
+        "vz": 0.73,
+        "groundspeed": 0.021718602627515793,
+        "airspeed": 0.73758864402771
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403704.8827522,
+      "datetime": "2025-05-16 16:55:04.882764",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652375,
+        "alt": 28.861
+      },
+      "attitude": {
+        "pitch": 0.002032922813668847,
+        "roll": 0.0011906804284080863,
+        "yaw": -2.221348524093628
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": 1.48,
+        "groundspeed": 0.019110875204205513,
+        "airspeed": 1.4892899990081787
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403705.946764,
+      "datetime": "2025-05-16 16:55:05.946788",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652375,
+        "alt": 27.679
+      },
+      "attitude": {
+        "pitch": 0.001612691325135529,
+        "roll": 0.0012480511795729399,
+        "yaw": -2.221478223800659
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": 1.54,
+        "groundspeed": 0.019923890009522438,
+        "airspeed": 1.5420536994934082
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403706.9943924,
+      "datetime": "2025-05-16 16:55:06.994395",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652375,
+        "alt": 26.533
+      },
+      "attitude": {
+        "pitch": 0.0013189880410209298,
+        "roll": 0.0013433070853352547,
+        "yaw": -2.221461772918701
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.47,
+        "groundspeed": 0.020922496914863586,
+        "airspeed": 1.4781239032745361
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403708.037594,
+      "datetime": "2025-05-16 16:55:08.037599",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 25.423
+      },
+      "attitude": {
+        "pitch": 0.0018515331903472543,
+        "roll": 0.0010063096415251493,
+        "yaw": -2.2213895320892334
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": 1.47,
+        "groundspeed": 0.019985318183898926,
+        "airspeed": 1.4733127355575562
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403709.1278255,
+      "datetime": "2025-05-16 16:55:09.127830",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 24.679
+      },
+      "attitude": {
+        "pitch": 0.0018643124494701624,
+        "roll": 0.0010369952069595456,
+        "yaw": -2.2215683460235596
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": 1.48,
+        "groundspeed": 0.019447071477770805,
+        "airspeed": 1.4864466190338135
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403710.1701717,
+      "datetime": "2025-05-16 16:55:10.170174",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 23.56
+      },
+      "attitude": {
+        "pitch": 0.0020817089825868607,
+        "roll": 0.0012656024191528559,
+        "yaw": -2.221547842025757
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": 1.49,
+        "groundspeed": 0.019925782456994057,
+        "airspeed": 1.4942415952682495
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403711.2313669,
+      "datetime": "2025-05-16 16:55:11.231374",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 22.81
+      },
+      "attitude": {
+        "pitch": 0.002199078444391489,
+        "roll": 0.0014942517736926675,
+        "yaw": -2.221675395965576
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.49,
+        "groundspeed": 0.021163351833820343,
+        "airspeed": 1.4960277080535889
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403712.29307,
+      "datetime": "2025-05-16 16:55:12.293077",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 22.059
+      },
+      "attitude": {
+        "pitch": 0.00226128869690001,
+        "roll": 0.0017713727429509163,
+        "yaw": -2.221526622772217
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.49,
+        "groundspeed": 0.023988977074623108,
+        "airspeed": 1.4964054822921753
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403713.3487482,
+      "datetime": "2025-05-16 16:55:13.348751",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 21.309
+      },
+      "attitude": {
+        "pitch": 0.0016702981665730476,
+        "roll": 0.001621988252736628,
+        "yaw": -2.2216756343841553
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.49,
+        "groundspeed": 0.02595445141196251,
+        "airspeed": 1.4955142736434937
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403714.377813,
+      "datetime": "2025-05-16 16:55:14.377815",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 20.559
+      },
+      "attitude": {
+        "pitch": 0.001675149193033576,
+        "roll": 0.0009489260846748948,
+        "yaw": -2.221698760986328
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.49,
+        "groundspeed": 0.02643880806863308,
+        "airspeed": 1.4951103925704956
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403715.4124699,
+      "datetime": "2025-05-16 16:55:15.412474",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 19.436
+      },
+      "attitude": {
+        "pitch": 0.001547756721265614,
+        "roll": 0.0011469492455944419,
+        "yaw": -2.2216172218322754
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.49,
+        "groundspeed": 0.024200942367315292,
+        "airspeed": 1.4959948062896729
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403716.4677606,
+      "datetime": "2025-05-16 16:55:16.467766",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 18.314
+      },
+      "attitude": {
+        "pitch": 0.001582109834998846,
+        "roll": 0.0015252846060320735,
+        "yaw": -2.221742630004883
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.49,
+        "groundspeed": 0.023684464395046234,
+        "airspeed": 1.4973706007003784
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403717.5200322,
+      "datetime": "2025-05-16 16:55:17.520034",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 17.194
+      },
+      "attitude": {
+        "pitch": 0.0014600441791117191,
+        "roll": 0.001548632513731718,
+        "yaw": -2.2217352390289307
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.5,
+        "groundspeed": 0.024252012372016907,
+        "airspeed": 1.5030995607376099
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403718.5590615,
+      "datetime": "2025-05-16 16:55:18.559071",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 16.07
+      },
+      "attitude": {
+        "pitch": 0.0015412893844768405,
+        "roll": 0.0013572648167610168,
+        "yaw": -2.2217535972595215
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.5,
+        "groundspeed": 0.02397983707487583,
+        "airspeed": 1.505737543106079
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403719.6196327,
+      "datetime": "2025-05-16 16:55:19.619643",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 14.943
+      },
+      "attitude": {
+        "pitch": 0.0015700411750003695,
+        "roll": 0.0013698625843971968,
+        "yaw": -2.2218644618988037
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.5,
+        "groundspeed": 0.023291300982236862,
+        "airspeed": 1.5047657489776611
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403720.6879137,
+      "datetime": "2025-05-16 16:55:20.687918",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 13.813
+      },
+      "attitude": {
+        "pitch": 0.001299332594498992,
+        "roll": 0.0015668467385694385,
+        "yaw": -2.221982955932617
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.5,
+        "groundspeed": 0.024084558710455894,
+        "airspeed": 1.5006451606750488
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403721.76002,
+      "datetime": "2025-05-16 16:55:21.760031",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 13.06
+      },
+      "attitude": {
+        "pitch": 0.0008516252273693681,
+        "roll": 0.0014924868009984493,
+        "yaw": -2.2219011783599854
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.49,
+        "groundspeed": 0.02394382283091545,
+        "airspeed": 1.4972025156021118
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403722.8402472,
+      "datetime": "2025-05-16 16:55:22.840250",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 12.684
+      },
+      "attitude": {
+        "pitch": 0.0007340802112594247,
+        "roll": 0.0013627655571326613,
+        "yaw": -2.221839427947998
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.49,
+        "groundspeed": 0.022917388007044792,
+        "airspeed": 1.4960986375808716
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403723.9070404,
+      "datetime": "2025-05-16 16:55:23.907046",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 11.935
+      },
+      "attitude": {
+        "pitch": 0.0008633629186078906,
+        "roll": 0.0011535139055922627,
+        "yaw": -2.221952438354492
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 1.49,
+        "groundspeed": 0.02030063234269619,
+        "airspeed": 1.495275855064392
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403724.9612112,
+      "datetime": "2025-05-16 16:55:24.961215",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 10.813
+      },
+      "attitude": {
+        "pitch": 0.0012135293800383806,
+        "roll": 0.0013955612666904926,
+        "yaw": -2.2219736576080322
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": 1.49,
+        "groundspeed": 0.018647199496626854,
+        "airspeed": 1.492330551147461
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403726.0260494,
+      "datetime": "2025-05-16 16:55:26.026052",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 9.89
+      },
+      "attitude": {
+        "pitch": 0.0014459375524893403,
+        "roll": 0.0015245748218148947,
+        "yaw": -2.222034215927124
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.87,
+        "groundspeed": 0.020198216661810875,
+        "airspeed": 0.876426637172699
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403727.0755565,
+      "datetime": "2025-05-16 16:55:27.075563",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 9.57
+      },
+      "attitude": {
+        "pitch": 0.0015479793073609471,
+        "roll": 0.0011443129042163491,
+        "yaw": -2.222001552581787
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.48,
+        "groundspeed": 0.0206953976303339,
+        "airspeed": 0.4825359284877777
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403728.1212099,
+      "datetime": "2025-05-16 16:55:28.121214",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 9.235
+      },
+      "attitude": {
+        "pitch": 0.0015350260073319077,
+        "roll": 0.0015050034271553159,
+        "yaw": -2.2219533920288086
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": 0.45,
+        "groundspeed": 0.019453298300504684,
+        "airspeed": 0.4584289491176605
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403729.181976,
+      "datetime": "2025-05-16 16:55:29.181989",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 8.999
+      },
+      "attitude": {
+        "pitch": 0.001384037546813488,
+        "roll": 0.0016298083355650306,
+        "yaw": -2.2220418453216553
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.020175950601696968,
+        "airspeed": 0.4942379593849182
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403730.2304013,
+      "datetime": "2025-05-16 16:55:30.230406",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 8.624
+      },
+      "attitude": {
+        "pitch": 0.0015501544112339616,
+        "roll": 0.0019228695891797543,
+        "yaw": -2.221958875656128
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.51,
+        "groundspeed": 0.020856091752648354,
+        "airspeed": 0.5108939409255981
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403731.2893484,
+      "datetime": "2025-05-16 16:55:31.289354",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 8.245
+      },
+      "attitude": {
+        "pitch": 0.001382266404107213,
+        "roll": 0.001999309752136469,
+        "yaw": -2.2220170497894287
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.5,
+        "groundspeed": 0.02320811338722706,
+        "airspeed": 0.5082694292068481
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403732.3728614,
+      "datetime": "2025-05-16 16:55:32.372864",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.994
+      },
+      "attitude": {
+        "pitch": 0.0015222103102132678,
+        "roll": 0.0017500314861536026,
+        "yaw": -2.2220704555511475
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.5,
+        "groundspeed": 0.024961790069937706,
+        "airspeed": 0.5058726072311401
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403733.4674413,
+      "datetime": "2025-05-16 16:55:33.467447",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.743
+      },
+      "attitude": {
+        "pitch": 0.0016085774404928088,
+        "roll": 0.001431116135790944,
+        "yaw": -2.2220261096954346
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.025065282359719276,
+        "airspeed": 0.49073323607444763
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403734.5232272,
+      "datetime": "2025-05-16 16:55:34.523230",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.578
+      },
+      "attitude": {
+        "pitch": 0.0012564583448693156,
+        "roll": 0.0012882367009297013,
+        "yaw": -2.2221133708953857
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.025720247998833656,
+        "airspeed": 0.026102224364876747
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403735.588591,
+      "datetime": "2025-05-16 16:55:35.588604",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.592
+      },
+      "attitude": {
+        "pitch": 0.0014518126845359802,
+        "roll": 0.001419320935383439,
+        "yaw": -2.222062110900879
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": -0.04,
+        "groundspeed": 0.023808147758245468,
+        "airspeed": 0.04705933853983879
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403736.6508205,
+      "datetime": "2025-05-16 16:55:36.650823",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.613
+      },
+      "attitude": {
+        "pitch": 0.00116731075104326,
+        "roll": 0.0017442365642637014,
+        "yaw": -2.22210955619812
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.02280903235077858,
+        "airspeed": 0.023741383105516434
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403737.7153847,
+      "datetime": "2025-05-16 16:55:37.715393",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.615
+      },
+      "attitude": {
+        "pitch": 0.0013346968917176127,
+        "roll": 0.0015290036099031568,
+        "yaw": -2.2220966815948486
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.023092016577720642,
+        "airspeed": 0.024224992841482162
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403738.781767,
+      "datetime": "2025-05-16 16:55:38.781769",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.614
+      },
+      "attitude": {
+        "pitch": 0.0011531184427440166,
+        "roll": 0.0016269835177809,
+        "yaw": -2.2220451831817627
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.022826315835118294,
+        "airspeed": 0.023958154022693634
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403739.84879,
+      "datetime": "2025-05-16 16:55:39.848793",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.612
+      },
+      "attitude": {
+        "pitch": 0.0014295633882284164,
+        "roll": 0.0015300889499485493,
+        "yaw": -2.2221896648406982
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.02349388599395752,
+        "airspeed": 0.023917460814118385
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403740.8982112,
+      "datetime": "2025-05-16 16:55:40.898216",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.611
+      },
+      "attitude": {
+        "pitch": 0.001381313893944025,
+        "roll": 0.0012419904815033078,
+        "yaw": -2.2221617698669434
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.023490343242883682,
+        "airspeed": 0.023710111156105995
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403741.9604428,
+      "datetime": "2025-05-16 16:55:41.960449",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.611
+      },
+      "attitude": {
+        "pitch": 0.0009787982562556863,
+        "roll": 0.0010529712308198214,
+        "yaw": -2.2221486568450928
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.022111831232905388,
+        "airspeed": 0.022274484857916832
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403743.069879,
+      "datetime": "2025-05-16 16:55:43.069885",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.61
+      },
+      "attitude": {
+        "pitch": 0.0010956006590276957,
+        "roll": 0.001407902454957366,
+        "yaw": -2.222172498703003
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.01987544819712639,
+        "airspeed": 0.020013460889458656
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403744.1445532,
+      "datetime": "2025-05-16 16:55:44.144561",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.61
+      },
+      "attitude": {
+        "pitch": 0.001049219397827983,
+        "roll": 0.0016064968658611178,
+        "yaw": -2.222121238708496
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": 0.0,
+        "groundspeed": 0.018747933208942413,
+        "airspeed": 0.018824297934770584
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403745.2465577,
+      "datetime": "2025-05-16 16:55:45.246562",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.609
+      },
+      "attitude": {
+        "pitch": 0.0012898242566734552,
+        "roll": 0.0016208668239414692,
+        "yaw": -2.2221999168395996
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": 0.01,
+        "groundspeed": 0.018599240109324455,
+        "airspeed": 0.023618120700120926
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403746.3203948,
+      "datetime": "2025-05-16 16:55:46.320397",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 7.267
+      },
+      "attitude": {
+        "pitch": 0.0012609066907316446,
+        "roll": 0.001901616808027029,
+        "yaw": -2.2222349643707275
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": 0.54,
+        "groundspeed": 0.019764384254813194,
+        "airspeed": 0.5407326817512512
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403747.3842824,
+      "datetime": "2025-05-16 16:55:47.384288",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 6.863
+      },
+      "attitude": {
+        "pitch": 0.001018768409267068,
+        "roll": 0.0016672116471454501,
+        "yaw": -2.222229242324829
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.51,
+        "groundspeed": 0.021977264434099197,
+        "airspeed": 0.5199382901191711
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403748.4365401,
+      "datetime": "2025-05-16 16:55:48.436550",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 6.481
+      },
+      "attitude": {
+        "pitch": 0.0015839162515476346,
+        "roll": 0.0016820975579321384,
+        "yaw": -2.2222909927368164
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.02131613716483116,
+        "airspeed": 0.4954472482204437
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403749.5201135,
+      "datetime": "2025-05-16 16:55:49.520117",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 6.108
+      },
+      "attitude": {
+        "pitch": 0.0016996603226289153,
+        "roll": 0.0018020219868049026,
+        "yaw": -2.222273588180542
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.022662479430437088,
+        "airspeed": 0.49378836154937744
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403750.5870287,
+      "datetime": "2025-05-16 16:55:50.587033",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 5.859
+      },
+      "attitude": {
+        "pitch": 0.001307611120864749,
+        "roll": 0.0020225897897034883,
+        "yaw": -2.222327947616577
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.024047421291470528,
+        "airspeed": 0.4953303933143616
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403751.66374,
+      "datetime": "2025-05-16 16:55:51.663745",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 5.484
+      },
+      "attitude": {
+        "pitch": 0.0013104815734550357,
+        "roll": 0.001607850892469287,
+        "yaw": -2.2223799228668213
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.024793285876512527,
+        "airspeed": 0.4959913194179535
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403752.7265399,
+      "datetime": "2025-05-16 16:55:52.726547",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 5.234
+      },
+      "attitude": {
+        "pitch": 0.0014026050921529531,
+        "roll": 0.0014359786873683333,
+        "yaw": -2.222402572631836
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.024522898718714714,
+        "airspeed": 0.49590107798576355
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403753.7790182,
+      "datetime": "2025-05-16 16:55:53.779030",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 4.86
+      },
+      "attitude": {
+        "pitch": 0.001244271406903863,
+        "roll": 0.0017138859257102013,
+        "yaw": -2.2224037647247314
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.024049263447523117,
+        "airspeed": 0.49612897634506226
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403754.8349926,
+      "datetime": "2025-05-16 16:55:54.834995",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 4.486
+      },
+      "attitude": {
+        "pitch": 0.0011900904355570674,
+        "roll": 0.0016215882496908307,
+        "yaw": -2.2223830223083496
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.024150826036930084,
+        "airspeed": 0.4976675808429718
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403755.9276981,
+      "datetime": "2025-05-16 16:55:55.927702",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 4.237
+      },
+      "attitude": {
+        "pitch": 0.0013979008654132485,
+        "roll": 0.0015129701932892203,
+        "yaw": -2.2223730087280273
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.023731224238872528,
+        "airspeed": 0.49858227372169495
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403757.0112312,
+      "datetime": "2025-05-16 16:55:57.011241",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 3.862
+      },
+      "attitude": {
+        "pitch": 0.0014643961330875754,
+        "roll": 0.0014214597176760435,
+        "yaw": -2.222412109375
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.022953175008296967,
+        "airspeed": 0.49925073981285095
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403758.0974238,
+      "datetime": "2025-05-16 16:55:58.097427",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 3.487
+      },
+      "attitude": {
+        "pitch": 0.0013650465989485383,
+        "roll": 0.001671488513238728,
+        "yaw": -2.222364664077759
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.023310422897338867,
+        "airspeed": 0.49915483593940735
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403759.1692023,
+      "datetime": "2025-05-16 16:55:59.169207",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 3.112
+      },
+      "attitude": {
+        "pitch": 0.001045065582729876,
+        "roll": 0.0019146190024912357,
+        "yaw": -2.222383975982666
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.023113178089261055,
+        "airspeed": 0.4989281892776489
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403760.2320397,
+      "datetime": "2025-05-16 16:56:00.232051",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 2.738
+      },
+      "attitude": {
+        "pitch": 0.0012446431210264564,
+        "roll": 0.0017544360598549247,
+        "yaw": -2.222409248352051
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.023397741839289665,
+        "airspeed": 0.4994485378265381
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403761.306094,
+      "datetime": "2025-05-16 16:56:01.306104",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 2.362
+      },
+      "attitude": {
+        "pitch": 0.0006481371819972992,
+        "roll": 0.0015587330562993884,
+        "yaw": -2.2224292755126953
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.023203080520033836,
+        "airspeed": 0.49942803382873535
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403762.362291,
+      "datetime": "2025-05-16 16:56:02.362299",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 2.112
+      },
+      "attitude": {
+        "pitch": 0.0004889023257419467,
+        "roll": 0.0016701016575098038,
+        "yaw": -2.2224199771881104
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.020823266357183456,
+        "airspeed": 0.49881723523139954
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403763.4586337,
+      "datetime": "2025-05-16 16:56:03.458636",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 1.736
+      },
+      "attitude": {
+        "pitch": 0.0009413090883754194,
+        "roll": 0.0018741913372650743,
+        "yaw": -2.2224059104919434
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.019489122554659843,
+        "airspeed": 0.4982662498950958
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403764.520927,
+      "datetime": "2025-05-16 16:56:04.520929",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 1.487
+      },
+      "attitude": {
+        "pitch": 0.001207547727972269,
+        "roll": 0.0020177047699689865,
+        "yaw": -2.2224280834198
+      },
+      "velocity": {
+        "vx": 0.01,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.020302152261137962,
+        "airspeed": 0.4981485605239868
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403765.6090376,
+      "datetime": "2025-05-16 16:56:05.609042",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 1.112
+      },
+      "attitude": {
+        "pitch": 0.0013124849647283554,
+        "roll": 0.0018404414877295494,
+        "yaw": -2.222510814666748
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.020810920745134354,
+        "airspeed": 0.4985271394252777
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403766.667479,
+      "datetime": "2025-05-16 16:56:06.667485",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 0.738
+      },
+      "attitude": {
+        "pitch": 0.0015402951976284385,
+        "roll": 0.0022383546456694603,
+        "yaw": -2.2224795818328857
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.49,
+        "groundspeed": 0.022087903693318367,
+        "airspeed": 0.49964720010757446
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403767.7505493,
+      "datetime": "2025-05-16 16:56:07.750555",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 0.489
+      },
+      "attitude": {
+        "pitch": 0.001567434286698699,
+        "roll": 0.002153051784262061,
+        "yaw": -2.2225053310394287
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.5,
+        "groundspeed": 0.024370471015572548,
+        "airspeed": 0.5008208155632019
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403768.855412,
+      "datetime": "2025-05-16 16:56:08.855418",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 0.114
+      },
+      "attitude": {
+        "pitch": 0.0011991200735792518,
+        "roll": 0.0019541545771062374,
+        "yaw": -2.222496271133423
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": 0.5,
+        "groundspeed": 0.025644006207585335,
+        "airspeed": 0.5014171004295349
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403769.9266765,
+      "datetime": "2025-05-16 16:56:09.926681",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 0.091
+      },
+      "attitude": {
+        "pitch": 0.0012392058270052075,
+        "roll": 0.0018956436542794108,
+        "yaw": -2.2224843502044678
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": -0.49,
+        "groundspeed": 0.027531785890460014,
+        "airspeed": 0.4970652461051941
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403770.9951744,
+      "datetime": "2025-05-16 16:56:10.995180",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 0.178
+      },
+      "attitude": {
+        "pitch": 0.0011965085286647081,
+        "roll": 0.0018852634821087122,
+        "yaw": -2.2225263118743896
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": -0.45,
+        "groundspeed": 0.026211697608232498,
+        "airspeed": 0.45086997747421265
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    },
+    {
+      "timestamp": 1747403772.1007583,
+      "datetime": "2025-05-16 16:56:12.100760",
+      "gps": {
+        "lat": -35.3632627,
+        "lon": 149.1652374,
+        "alt": 0.252
+      },
+      "attitude": {
+        "pitch": 0.0011696858564391732,
+        "roll": 0.0018871824722737074,
+        "yaw": -2.2225863933563232
+      },
+      "velocity": {
+        "vx": 0.02,
+        "vy": 0.0,
+        "vz": -0.37,
+        "groundspeed": 0.024347759783267975,
+        "airspeed": 0.380187451839447
+      },
+      "battery": {
+        "voltage": 12.6,
+        "current": 0.0,
+        "level": 100
+      },
+      "system": {
+        "mode": "AUTO",
+        "armed": true,
+        "is_armable": true,
+        "ekf_ok": true,
+        "heading": 232
+      },
+      "waypoint": {
+        "current": 3,
+        "total": 4
+      }
+    }
+  ]
+}

@@ -27,7 +27,9 @@ def get_flight_data_summary():
         }
         return summary
     except Exception as e:
-        return {"hata": str(e)} from dronekit import connect, VehicleMode, Command
+        from dronekit import connect, VehicleMode, Command
+        return {"hata": str(e)} 
+
 import time
 import threading
 import logging
@@ -35,6 +37,7 @@ import json
 import os
 from pymavlink import mavutil
 from datetime import datetime
+from dronekit import connect, VehicleMode, Command
 
 # ------------------ Ayarlar ------------------
 #CONNECTION_STRING = "/dev/ttyUSB0"  # APM 2.8 bağlantı portu
@@ -261,12 +264,12 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("Program kullanıcı tarafından durduruldu!")
     
-finally:
-    # Temizlik
-    logging_active.clear()
-    if vehicle.armed:
-        print("Acil durum: RTL moduna geçiliyor...")
-        vehicle.mode = VehicleMode("RTL")
+    finally:
+        # Temizlik
+        logging_active.clear()
+        if vehicle.armed:
+            print("Acil durum: RTL moduna geçiliyor...")
+            vehicle.mode = VehicleMode("RTL")
     
     # Son veri kaydını yapma
     try:
